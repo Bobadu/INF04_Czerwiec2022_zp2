@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kursy</string>
+    <string name="liczba_kursow">Liczba kursów: %1$d</string>
+    <string name="pozycja_listy">%1$d. %2$s</string>
+    <string name="etykieta_imie_nazwisko">Imię i nazwisko:</string>
+    <string name="etykieta_numer_kursu">Numer kursu:</string>
+    <string name="zapisz_do_kursu">Zapisz do kursu</string>
+    <string name="nieprawidlowy_numer">Nieprawidłowy numer kursu</string>
+    <string name="wynik_zapisu">%1$s\n%2$s</string>
+</resources>
